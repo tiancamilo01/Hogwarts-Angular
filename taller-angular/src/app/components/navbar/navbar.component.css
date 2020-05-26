@@ -1,0 +1,48 @@
+.nav{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: rgba(0, 0, 0, 0.4);
+    
+}
+.nav .nav-left {
+    grid-column: span 2;
+    
+}
+.nav .nav-rigth {
+    grid-column: span 1;
+    justify-self: end;
+    
+}
+.nav .nav-left a{
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+    height: 100%;
+    display:inline-block
+    
+}
+.nav-left a:hover {
+    background: #061623;
+    transition: .5s;
+}
+.inputSearch{
+    border-color: gray;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 10px 20px 10px 30px;
+    background-color: white;
+    margin: 10px;
+    font-size: 18px;
+    width: 200px;
+    /* Posición del icono*/
+    background-image: url('../../../assets/img/searchIcon.png');
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: 5px;  
+}
