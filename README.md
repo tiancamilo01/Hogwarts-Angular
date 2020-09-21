@@ -10,7 +10,8 @@ Hogwarts Angular is a project carried out in agular in which basic information a
 
 ## Installation process
 
-git clone https://github.com/tiancamilo01/Hogwarts-Angular.git
+Clone the repository.<br>
+`git clone https://github.com/tiancamilo01/Hogwarts-Angular.git`
 
 
 Open the project in console and run the command.<br>
