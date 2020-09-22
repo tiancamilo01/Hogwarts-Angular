@@ -23,4 +23,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ##Preview
 
-<img src="./assets/img/hogwarts-angular-img.png">
+<img src="https://github.com/tiancamilo01/Hogwarts-Angular/blob/master/taller-angular/src/assets/img/hogwarts-angular-img.png">
