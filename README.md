@@ -21,6 +21,6 @@ Open the project in console and run the command.<br>
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
-##Preview
+## Preview
 
-<img src="./src/assets/img/hogwarts-angular-img.png">
+<img src="https://github.com/tiancamilo01/Hogwarts-Angular/blob/master/taller-angular/src/assets/img/hogwarts-angular-img.png">
